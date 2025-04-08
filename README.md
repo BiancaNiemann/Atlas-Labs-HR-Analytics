@@ -17,3 +17,25 @@ Check out my Tableau dashboard here: https://lnkd.in/esZT66tr
 
 - KPIs of current, past, total employees and attrition rate:
 - ![image](https://github.com/user-attachments/assets/0cdf7db9-27f6-437a-af25-5772b8b92a34)
+
+- Current employee rate, per department and job role
+- ![image](https://github.com/user-attachments/assets/ab09cc78-8ad1-4c0f-9b95-a84cb9b83307)
+
+- Current employee total spilt by Age group and gender
+- ![image](https://github.com/user-attachments/assets/b1b0c7db-d541-4880-9548-076d8f2a7c87)
+
+- Current employees by marriage type
+- ![image](https://github.com/user-attachments/assets/cda69d3a-e01b-411d-bb9e-8d0afd1e9021)
+
+- Attrition by Department and Job Role
+- ![image](https://github.com/user-attachments/assets/8bda5b07-4cbb-42bb-9089-e7edec1127f5)
+
+- Attrition by Travel
+- ![image](https://github.com/user-attachments/assets/04f89d1a-649f-43d9-b363-539d85129607)
+
+  
+
+
+
+
+

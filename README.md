@@ -16,4 +16,4 @@ Check out my Tableau dashboard here: https://lnkd.in/esZT66tr
 #### After completing the Atlas Labs HR Analytics case study on DataCamp, I decided to reinforce my learning by practicing some of the key insights using SQL. I used commands such as SELECT, COUNT, GROUP BY, and COALESCE to query the database and replicate the data displayed on my Tableau dashboard
 
 - KPIs of current, past, total employees and attrition rate:
-  ![image](https://github.com/user-attachments/assets/0cdf7db9-27f6-437a-af25-5772b8b92a34)
+- ![image](https://github.com/user-attachments/assets/0cdf7db9-27f6-437a-af25-5772b8b92a34)
